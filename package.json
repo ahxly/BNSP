@@ -1,0 +1,11 @@
+{
+  "name": "NBSP",
+  "version": "0.0.1",
+  "dependencies": {
+    	"http-server": "^0.10.0",
+    	"soundmanager2": "^2.97.20170602"
+  },
+  "scripts": {
+  	"start": "cd ./app/html/ && http-server"
+  }
+}
